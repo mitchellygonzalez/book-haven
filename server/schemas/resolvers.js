@@ -78,13 +78,13 @@ const resolvers = {
  
   // create a user, sign a token, and send it back (to client/src/components/SignUpForm.js) - done!
 
-  // login a user, sign a token, and send it back (to client/src/components/LoginForm.js) - doing it now
+  // login a user, sign a token, and send it back (to client/src/components/LoginForm.js) - done!
   
-  // {body} is destructured req.body
+  // {body} is destructured req.body - ok
   
-  // save a book to a user's `savedBooks` field by adding it to the set (to prevent duplicates) - done, line 28+45! 
+  // save a book to a user's `savedBooks` field by adding it to the set (to prevent duplicates) - done! line 28+45! 
 
-  // user comes from `req.user` created in the auth middleware function
+  // user comes from `req.user` created in the auth middleware function - look for middleware
 
   // remove a book from `savedBooks` - done!
 
