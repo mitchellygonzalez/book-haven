@@ -74,15 +74,17 @@ const resolvers = {
 
   module.exports = resolvers
 
-  // get a single user by either their id or their username - done
+  // get a single user by either their id or their username - done!
  
-  // create a user, sign a token, and send it back (to client/src/components/SignUpForm.js) - done
+  // create a user, sign a token, and send it back (to client/src/components/SignUpForm.js) - doing it now.
 
-  // login a user, sign a token, and send it back (to client/src/components/LoginForm.js) - done
+  // login a user, sign a token, and send it back (to client/src/components/LoginForm.js) - 
+  
   // {body} is destructured req.body
   
-  // save a book to a user's `savedBooks` field by adding it to the set (to prevent duplicates) - done, line 28+45 in typeDefs.js 
+  // save a book to a user's `savedBooks` field by adding it to the set (to prevent duplicates) - done, line 28+45! 
+
   // user comes from `req.user` created in the auth middleware function
 
-  // remove a book from `savedBooks`
+  // remove a book from `savedBooks` - done!
 
