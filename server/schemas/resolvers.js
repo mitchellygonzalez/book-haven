@@ -76,9 +76,9 @@ const resolvers = {
 
   // get a single user by either their id or their username - done!
  
-  // create a user, sign a token, and send it back (to client/src/components/SignUpForm.js) - doing it now.
+  // create a user, sign a token, and send it back (to client/src/components/SignUpForm.js) - done!
 
-  // login a user, sign a token, and send it back (to client/src/components/LoginForm.js) - 
+  // login a user, sign a token, and send it back (to client/src/components/LoginForm.js) - doing it now
   
   // {body} is destructured req.body
   
