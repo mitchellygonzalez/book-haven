@@ -19,3 +19,9 @@ export const QUERY_ME = gql`
     }
   }
 `;
+/*
+
+Creating app... done, ⬢ serene-peak-20734
+https://serene-peak-20734.herokuapp.com/ | https://git.heroku.com/serene-peak-20734
+
+*/ 
